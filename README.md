@@ -1,4 +1,4 @@
-# Most-Popular-Path
+# Minig Most Popular Routes
 
 The code implements the MPR algorithm mining the most popular route. Refer Chen et. al. (2011) to get additional information on the MRP algorithm.
 
